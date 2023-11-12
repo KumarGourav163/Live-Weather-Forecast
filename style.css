@@ -1,0 +1,52 @@
+#firstbox{
+    color: black;
+}
+body{
+    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+}
+#navbar1{
+    /* color: white; */
+    background-color: green;
+}
+footer{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 20px;
+    border-radius: 3px;
+    /* background-image: url("https://wallpaperaccess.com/full/1540005.jpg"); */
+    color: white;
+}
+#insta{
+    color: red;
+}
+#link{
+    color: darkblue;
+}
+/*#facebook:hover{
+    color: gold;
+  box-shadow: 0 0 5px gold;
+  text-shadow: 0 0 5px gold;
+}
+#insta:hover{
+    color: gold;
+  box-shadow: 0 0 5px gold;
+  text-shadow: 0 0 5px gold;
+}
+#link:hover{
+    color: gold;
+  box-shadow: 0 0 5px gold;
+  text-shadow: 0 0 5px gold;
+}*/
+.card-body{
+    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+}
+.navbar{
+    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+}
+#city{
+    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+}
+.card-header{
+    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+}
