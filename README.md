@@ -1,4 +1,4 @@
 # Live-Weather-Forecast
-It is simple website only using HTML, CSS and JAVASCRIPT. It's shows the live information about the weather of any location whatever you want. I hope you will going to love this project. Happy Learning guy's
+Description: ☀️🌧️ Experience real-time weather updates with Weather Now – your go-to for live forecasts! Check out our sleek and user-friendly website on GitHub. Join the weather-loving community, contribute, and stay ahead of the elements. Dive into Weather Now today! 🌎🌦️
 <br>
 If you like this then please follow mw on instagram :- _kumar_gourav__
