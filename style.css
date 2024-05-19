@@ -2,11 +2,12 @@
     color: black;
 }
 body{
-    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+    /* background-image: url("backgraound.jpg"); */
+    background-color: #5C723B;
 }
 #navbar1{
     /* color: white; */
-    background-color: green;
+    background-color: #5C723B;
 }
 footer{
     width: 100%;
@@ -15,7 +16,7 @@ footer{
     padding: 20px;
     border-radius: 3px;
     /* background-image: url("https://wallpaperaccess.com/full/1540005.jpg"); */
-    color: white;
+    color: black
 }
 #insta{
     color: red;
@@ -23,7 +24,7 @@ footer{
 #link{
     color: darkblue;
 }
-/*#facebook:hover{
+/* #facebook:hover{
     color: gold;
   box-shadow: 0 0 5px gold;
   text-shadow: 0 0 5px gold;
@@ -37,16 +38,20 @@ footer{
     color: gold;
   box-shadow: 0 0 5px gold;
   text-shadow: 0 0 5px gold;
-}*/
+} */
 .card-body{
-    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+    /* background-image: url("https://wallpaperaccess.com/full/1540005.jpg"); */
+    background-color: #5C723B;
 }
 .navbar{
-    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+    /* background-image: url("https://wallpaperaccess.com/full/1540005.jpg"); */
+    background-color: #5C723B;
 }
 #city{
-    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+    /* background-image: url("https://wallpaperaccess.com/full/1540005.jpg"); */
+    background-color: #5C723B;
 }
 .card-header{
-    background-image: url("https://wallpaperaccess.com/full/1540005.jpg");
+    /* background-image: url("https://wallpaperaccess.com/full/1540005.jpg"); */
+    background-color: #5C723B;
 }
